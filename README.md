@@ -19,7 +19,7 @@
 *pcs open API rest实现       + 主要是上传接口，支持分块上传<br>
                              +openrest 的权限只能在/apps/<your application>/下建立和访问文件<br>
                              +如果直接使用bypy认证，可以在此处访问 /apps/bypy<br>
-
+支持并行上传<br>
 
 ##fakelogin:
 -------------
